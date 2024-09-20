@@ -30,7 +30,7 @@ Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios lími
      - Ofrece funcionalidades para consultar la información de NFTs y gestionar la propiedad de los activos.
 
 ### 3. [EcoPlanet 🌍](https://github.com/Al3xAzofeifa/EcoPlanet)
-   - **Descripción**: Este proyecto consiste en una aplicación diseñada para gestionar un sistema de eco-monedas que promueve el reciclaje de productos. La aplicación se desarrolla utilizando PHP (versión 7.2 o superior) para el backend y React (versión 18.1 o superior) para el frontend, con una base de datos MySQL.
+   - **Descripción**: Este proyecto consiste en una aplicación diseñada para gestionar un sistema de eco-monedas que promueve el reciclaje de productos. La aplicación se desarrolla utilizando PHP (versión 8.2.5) para el backend y React (versión 18.2.0) para el frontend, con una base de datos MySQL.
    - **Características**: 
      - Permite a los usuarios registrar y administrar el canje de materiales reciclables, calculando las eco-monedas generadas por cada transacción.
      - Proporciona estadísticas y visualizaciones sobre el rendimiento de los centros de acopio, incluyendo el total de canjes y eco-monedas generadas.
