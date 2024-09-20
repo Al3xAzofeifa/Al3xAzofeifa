@@ -15,7 +15,7 @@ Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios lími
 
 ## 📦 Proyectos
 
-### 1. [Nombre del Proyecto 1](link-al-proyecto)
+### 1. [PetClinic](link-al-proyecto)
    - **Descripción**: Breve descripción del proyecto, su propósito y las tecnologías utilizadas.
    - **Características**: 
      - Característica 1
