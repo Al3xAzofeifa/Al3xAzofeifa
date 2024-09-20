@@ -35,7 +35,7 @@ Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios lími
      - Permite a los usuarios registrar y administrar el canje de materiales reciclables, calculando las eco-monedas generadas por cada transacción.
      - Proporciona estadísticas y visualizaciones sobre el rendimiento de los centros de acopio, incluyendo el total de canjes y eco-monedas generadas.
        
-### ✍️ Programming as an Art Form
+### ✍️ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight).
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
