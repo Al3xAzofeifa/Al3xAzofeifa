@@ -2,9 +2,8 @@
 👋 ¡Hola! Soy Alexander Azofeifa, un joven programador de Costa Rica, apasionado por la tecnología y el desarrollo de software.<br>
 Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios límites.<br>
 
-💻 Me especializo en el desarrollo backend y siempre estoy buscando maneras de mejorar mis habilidades.
+💻 Me especializo en el desarrollo backend y siempre estoy buscando maneras de mejorar mis habilidades.Mi enfoque está en crear soluciones eficientes y aprender constantemente nuevas tecnologías.
 
-Mi enfoque está en crear soluciones eficientes y aprender constantemente nuevas tecnologías.
 <br>🌱 Mi meta es crecer cada día como Ingeniero en Software y contribuir al mundo del código abierto. Disfruto trabajar en equipo, resolver problemas complejos y enfrentar nuevos retos.<br>
 
 
