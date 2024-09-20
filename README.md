@@ -15,7 +15,7 @@ Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios lími
 
 ## 📦 Proyectos
 
-### 1. [PetClinic🐈](https://github.com/Al3xAzofeifa/PetClinic)
+### 1. [PetClinic 🐈](https://github.com/Al3xAzofeifa/PetClinic)
    - **Descripción**:  Proyecto desarrollado para gestionar la agenda de servicios de una clínica veterinaria. La aplicación permite la administración de citas, usuarios y servicios de forma eficiente. Utiliza Node.js y Prisma en el backend, junto con Angular en el frontend, y una base de datos MySQL para almacenar la información.
    - **Características**: 
      - Gestión de usuarios con roles de administrador, encargado y cliente.
@@ -23,13 +23,13 @@ Siempre estoy en la búsqueda de aprender algo nuevo y superar mis propios lími
       -Registro y modificación de sucursales, servicios y productos de la clínica.
       -Sistema de notificaciones para confirmar citas y reprogramarlas.
 
-### 2. [NFT Sales](https://github.com/Al3xAzofeifa/ProjectNFTs)
+### 2. [NFT Sales 🖼️](https://github.com/Al3xAzofeifa/ProjectNFTs)
    - **Descripción**:  Este proyecto es un sistema de simulación para la gestión de NFTs que permite a los usuarios comprar, vender y rastrear la propiedad de activos digitales únicos. Utiliza tecnologías como ASP.NET Core, C# y SQL Server.
    - **Características**: 
      - Permite a los usuarios comprar y vender NFTs, generando automáticamente facturas en formato PDF.
      - Ofrece funcionalidades para consultar la información de NFTs y gestionar la propiedad de los activos.
 
-### 3. [EcoPlanet🌍](https://github.com/Al3xAzofeifa/EcoPlanet)
+### 3. [EcoPlanet 🌍](https://github.com/Al3xAzofeifa/EcoPlanet)
    - **Descripción**: Este proyecto consiste en una aplicación diseñada para gestionar un sistema de eco-monedas que promueve el reciclaje de productos. La aplicación se desarrolla utilizando PHP (versión 7.2 o superior) para el backend y React (versión 18.1 o superior) para el frontend, con una base de datos MySQL.
    - **Características**: 
      - Permite a los usuarios registrar y administrar el canje de materiales reciclables, calculando las eco-monedas generadas por cada transacción.
